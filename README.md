@@ -16,3 +16,4 @@ The Turbofan data from the
 
 **writeup.ipynb** and writeup.html contain a high level overview of the project.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/doolingdavid/hyper/HEAD)
